@@ -1,0 +1,29 @@
+#socials-list > a > i {
+    /* width: 5%; */
+    font-size: 1.3em;
+  }
+  
+  .socials {
+    margin-bottom: 0.7em;
+  }
+
+.font-awesome {
+  color: rgb(150, 150, 150);
+  margin-right: .75em;
+}
+
+.fa-envelope:hover {
+  color: #0F9D58;
+}
+
+.fa-github:hover {
+  color: #000000;
+}
+
+.fa-linkedin:hover {
+  color: #0A66C2;
+}
+
+.fa-strava:hover {
+  color: #FC4C02;
+}
