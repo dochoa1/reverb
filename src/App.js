@@ -14,7 +14,6 @@ class App extends Component {
           </div>
           <Socials/>
         </main>
-        {/* <script src="https://kit.fontawesome.com/a578134838.js" crossorigin="anonymous"></script> */}
       </div>
     );
   }

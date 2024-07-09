@@ -1,15 +1,15 @@
+.socials {
+  margin-bottom: 0.7em;
+}
+
 #socials-list > a > i {
-    /* width: 5%; */
-    font-size: 1.3em;
-  }
-  
-  .socials {
-    margin-bottom: 0.7em;
-  }
+  font-size: 1.3em;
+}
 
 .font-awesome {
   color: rgb(150, 150, 150);
-  margin-right: .75em;
+  margin-left: .35em;
+  margin-right: .35em;
 }
 
 .fa-envelope:hover {
