@@ -1,7 +1,15 @@
 {
   "name": "reverb",
   "version": "0.1.0",
+  "description": "A personal website for Daniel Ochoa",
+  "keywords": [
+    "personal website"
+  ],
   "main": "/src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dochoa1/reverb.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
